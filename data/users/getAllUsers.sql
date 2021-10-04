@@ -1,0 +1,5 @@
+SELECT [UsersId]
+        ,[UserName]
+        ,[password]
+        ,[email]
+FROM [dbo].[users]
