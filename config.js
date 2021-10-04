@@ -4,8 +4,8 @@ module.exports = {
     sql: {
         server: 'localhost',
         database: 'SqlJs',
-        user: 'yonie',
-        password: '123123q',
+        user: '******',
+        password: '******',
         options: {
             encrypt: false,
             enableArithAbort: true
